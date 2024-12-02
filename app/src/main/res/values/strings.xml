@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BankingApp</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="balance">Your balance is $1000</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="logout">Logout</string>
+    <string name="amount">Amount</string>
+    <string name="recipient">Recipient</string>
+    <string name="transfer">Transfer</string>
+    <string name="accessibility_menu">Accessibility Menu</string>
+    <string name="high_contrast_mode">High Contrast Mode</string>
+    <string name="text_to_speech">Text-to-Speech</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="transferred">Transferred $%1$s to %2$s</string>
+    <string name="enter_details">Please enter all details</string>
+</resources>
